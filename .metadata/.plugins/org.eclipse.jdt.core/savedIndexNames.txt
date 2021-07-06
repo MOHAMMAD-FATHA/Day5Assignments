@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+F:\.metadata\Day 5 Practice Problem\.metadata\.plugins\org.eclipse.jdt.core
+3579653385.index
+253077143.index
+255996827.index
+1870687201.index
+1710548459.index
+373306608.index
+3552383509.index
+137630688.index
+634994963.index

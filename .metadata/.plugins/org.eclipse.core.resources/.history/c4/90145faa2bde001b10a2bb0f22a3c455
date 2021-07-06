@@ -1,0 +1,28 @@
+package QuotientRJava;
+import java.util.Scanner;
+public class QuotientRem {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int dividend, divisor, quo, rem;
+        System.out.print("Enter Dividend:");
+        Scanner sc = new Scanner(System.in);
+        dividend = sc.nextInt();
+        
+        System.out.print("Enter Divisor:");
+        Scanner sc1 = new Scanner(System.in);
+        divisor = sc.nextInt();
+         
+        
+        
+        quo = dividend / divisor;
+        
+        rem = dividend % divisor;
+        
+        
+        System.out.println("Quotient: "+quo);
+        System.out.println("Remainder: "+rem);
+	}
+
+}

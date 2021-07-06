@@ -1,0 +1,5 @@
+package jdk.internal.icu.impl;
+
+public class Utility {
+
+}

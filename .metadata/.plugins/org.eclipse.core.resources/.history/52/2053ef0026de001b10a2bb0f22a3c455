@@ -1,0 +1,23 @@
+package jdk.internal.icu.impl;
+import java.util.Scanner;
+public class Utility {
+
+	public static int getUserSpecificInteger1() {
+		// TODO Auto-generated method stub
+	
+		private static final Scanner sc = new Scanner(System.in);
+		public static double getRandomDouble() {
+			return Math.random();
+		}
+		
+		public static int getUserSpecificInteger() {
+			return sc.nextInt();
+		}
+		public static char getUserSpecificChar() {
+			return sc.next( ).charAt(0);
+		}
+		public static double getUserSpecificDouble() {
+			return sc.nextDouble();
+	}
+
+}
